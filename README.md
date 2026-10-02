@@ -1,98 +1,171 @@
 <div align="center">
 
-<!-- ================= TOP BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Diya%20Krishna&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=DIYA%20KRISHNA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20DEVELOPER&descSize=15&descColor=B6D4FF&descAlignY=60&color=0:0F172A,50:172554,100:0369A1"/>
 
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Diya+Krishna+%F0%9F%91%8B;CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+practical+digital+experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Improving"/>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- HERO SECTION -->
+<!-- ===================================================== -->
+
+<table width="100%">
 <tr>
 
-<!-- ================= LEFT: PROFILE CARD ================= -->
-<td width="36%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <br>
 
-<img src="./profile-tech.png" width="230" style="border-radius: 50%;" alt="Diya Krishna">
+<img src="./profile-tech.png" width="330" alt="Diya Krishna"/>
 
 <br><br>
 
-<code><b>&lt;diya.krishna /&gt;</b></code>
+<img src="https://img.shields.io/badge/●_DEVELOPER-0F172A?style=for-the-badge&labelColor=E0F2FE&color=0F172A"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square&labelColor=EFF6FF"/>
+<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=flat-square&labelColor=ECFEFF"/>
+<img src="https://img.shields.io/badge/EXPLORING-7C3AED?style=flat-square&labelColor=F5F3FF"/>
 
 <br><br>
 
 <a href="https://github.com/diyakrishnah">
-  <img src="https://img.shields.io/badge/●_ONLINE-22C55E?style=for-the-badge&labelColor=0F172A&color=22C55E" alt="Online Status">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+
+<br>
 
 <a href="mailto:diyakrishna404@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
-<a href="https://www.linkedin.com/in/diya-krishna-663080326">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+
+<br><br>
 
 </td>
 
-<!-- ================= RIGHT: TERMINAL HERO ================= -->
-<td width="64%" valign="top">
 
-<table width="100%" border="0">
+<td width="58%" valign="middle">
+
+<table width="100%">
 <tr>
 <td>
 
-<img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&labelColor=1E293B&color=FF5F56">
-<img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&labelColor=1E293B&color=FFBD2E">
-<img src="https://img.shields.io/badge/●-27C93F?style=flat-square&labelColor=1E293B&color=27C93F">
-&nbsp; <code>~/diyakrishnah/about_me.sh</code>
+<img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&labelColor=FFFFFF&color=FF5F56">
+<img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&labelColor=FFFFFF&color=FFBD2E">
+<img src="https://img.shields.io/badge/●-27C93F?style=flat-square&labelColor=FFFFFF&color=27C93F">
+
+<code>~/diyakrishnah/profile</code>
 
 <br><br>
 
-### Hello, World! 👋
+### `diya@github:~$ whoami`
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=2563EB&vCenter=true&width=500&lines=CS+Engineering+Student;Software+%26+Web+Developer;Building+Accessible+Technology;Problem+Solver" alt="Typing SVG" />
-</a>
+<pre>
+┌───────────────────────────────────────────────┐
+│                                               │
+│  NAME       Diya Krishna                     │
+│  ROLE       CSE Student / Developer          │
+│  STATUS     ● Available to Build             │
+│                                               │
+│  LOCATION   Kerala, India                    │
+│                                               │
+│  FOCUS                                        │
+│  ├── Software Development                    │
+│  ├── Web Technologies                         │
+│  ├── Accessibility                            │
+│  └── Problem Solving                          │
+│                                               │
+└───────────────────────────────────────────────┘
+</pre>
 
-<br><br>
+<br>
 
-<table border="0" cellpadding="4">
-<tr>
-<td>📍</td>
-<td><b>Location</b></td>
-<td>Kerala, India</td>
+<code>$ cat current_objective.txt</code>
+
+> **Turning ideas into practical digital experiences.**
+
+<br>
+
+<code>$ ./build --mode=creative</code>
+
+<br>
+
+`BUILD` → `TEST` → `SOLVE` → `IMPROVE`
+
+</td>
 </tr>
-<tr>
-<td>🎓</td>
-<td><b>Education</b></td>
-<td>B.Tech in Computer Science & Engineering</td>
-</tr>
-<tr>
-<td>⚡</td>
-<td><b>Focus</b></td>
-<td>Web Engineering · Assistive Tech · AI/ML Basics</td>
-</tr>
-<tr>
-<td>🧩</td>
-<td><b>Interests</b></td>
-<td>Digital Accessibility · Problem Solving · Human-Centered Tech</td>
-</tr>
-<tr>
-<td>🚀</td>
-<td><b>Current Goal</b></td>
-<td>Building impactful software & open-source contributions</td>
+</table>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<code>$ git commit -m "Building tech for good 🚀"</code>
+<!-- ===================================================== -->
+<!-- QUICK INFO -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<table width="90%">
+<tr>
+
+<td align="center">
+
+### `01`
+
+**EDUCATION**
+
+B.Tech  
+Computer Science & Engineering
 
 </td>
-</tr>
-</table>
+
+<td align="center">
+
+### `02`
+
+**CURRENT MODE**
+
+Learning  
+Building  
+Experimenting
+
+</td>
+
+<td align="center">
+
+### `03`
+
+**INTEREST**
+
+Software  
+Web  
+Accessibility
+
+</td>
+
+<td align="center">
+
+### `04`
+
+**APPROACH**
+
+Think  
+Build  
+Improve
 
 </td>
 
@@ -103,140 +176,197 @@
 
 <br>
 
-<!-- ================= TECHNICAL SKILLS ================= -->
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-TECH_STACK_%26_TOOLS-1E293B?style=for-the-badge&labelColor=2563EB&color=F8FAFC">
+# `TECH STACK`
+
+<sub>Technologies I work with and continue to explore</sub>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,numpy,pandas,sklearn,git,github,vscode&perline=13" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,git,github,vscode&perline=10"/>
 
 <br><br>
+
+<table width="90%">
+<tr>
+
+<td align="center">
+
+### `LANGUAGES`
+
+`Python`  
+`JavaScript`  
+`TypeScript`
+
+</td>
+
+<td align="center">
+
+### `FRONTEND`
+
+`HTML`  
+`CSS`  
+`React`  
+`Tailwind CSS`
+
+</td>
+
+<td align="center">
+
+### `DATA / ML`
+
+`NumPy`  
+`Pandas`  
+`Scikit-Learn`  
+`Jupyter`
+
+</td>
+
+<td align="center">
+
+### `TOOLS`
+
+`Git`  
+`GitHub`  
+`VS Code`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `SELECTED PROJECTS`
+
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
 
-<td align="center" width="25%" valign="top">
-
-#### 💻 `LANGUAGES`
-`Python` <br>
-`JavaScript` <br>
-`TypeScript` <br>
-`HTML5 / CSS3`
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-#### 🌐 `FRONTEND`
-`React.js` <br>
-`Tailwind CSS` <br>
-`Responsive UI` <br>
-`Web Accessibility (a11y)`
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-#### 📊 `DATA & AI`
-`NumPy` <br>
-`Pandas` <br>
-`Scikit-Learn` <br>
-`Computer Vision (MediaPipe)`
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-#### 🛠️ `TOOLS`
-`Git` · `GitHub` <br>
-`VS Code` <br>
-`Linux / Terminal` <br>
-`Vercel / Netlify`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ================= FEATURED PROJECTS ================= -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-FEATURED_PROJECTS-1E293B?style=for-the-badge&labelColor=2563EB&color=F8FAFC">
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<!-- PROJECT 1 -->
 <td width="50%" valign="top">
 
-<table width="100%" border="0">
-<tr>
-<td>
+### 🧩 `SAMVADSAHAY`
 
-### 💬 `SAMVADSAHAY`
-> **Assistive Technology & Visual Learning Platform**
+**Assistive Technology Platform**
 
-A structured visual communication platform designed to empower individuals with speech/communication needs and assist caregivers.
-
-**Key Features:**
-- 🎴 **Communication Cards:** Visual AAC tools for daily interaction.
-- 📅 **Routine Planner:** Step-by-step daily schedule tracker.
-- 📊 **Caregiver Dashboard:** Real-time progress monitoring.
-- 🌐 **Multilingual Support:** Accessibility across regional languages.
+A personalized assistive technology platform designed to support communication and daily-living skills through structured visual learning.
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white">
+**FEATURES**
+
+`Communication Cards`  
+`Daily Routines`  
+`Progress Tracking`  
+`Caregiver Dashboard`  
+`Multilingual Support`  
+`Reward System`
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827"/>
 
 </td>
-</tr>
-</table>
 
-</td>
 
-<!-- PROJECT 2 -->
 <td width="50%" valign="top">
-
-<table width="100%" border="0">
-<tr>
-<td>
 
 ### 🤟 `ISL LEARNING PLATFORM`
-> **Interactive Indian Sign Language Learning Web App**
 
-An interactive visual learning web app aimed at bridging communication gaps using real-time hand-tracking technology.
+**Accessibility-focused Web Application**
 
-**Key Features:**
-- 🖐️ **Gesture Recognition:** Live MediaPipe computer vision integration.
-- 📚 **Interactive Modules:** Gamified lessons for ISL gestures.
-- ⚡ **Real-time Feedback:** Instant accuracy scoring for users.
-- ♿ **Inclusive UX:** High contrast, keyboard-navigable design.
+A visual-first learning platform designed to make Indian Sign Language learning more interactive and accessible.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/MediaPipe-000000?style=flat-square&logo=google&logoColor=white">
+**TECHNOLOGY**
+
+`React`  
+`TypeScript`  
+`Tailwind CSS`  
+`MediaPipe`
+
+<br>
+
+**FOCUS**
+
+`Visual Learning`  
+`Accessibility`  
+`Interactive Interface`  
+`Gesture Recognition`
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF"/>
 
 </td>
+
 </tr>
-</table>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 `MACHINE LEARNING`
+
+**Data & Predictive Modelling**
+
+Exploring machine learning workflows through data analysis, regression and predictive modelling.
+
+<br>
+
+`Data Analysis`  
+`Regression`  
+`Data Preprocessing`  
+`Model Evaluation`
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=FFFFFF"/>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### ⚡ `CURRENTLY BUILDING`
+
+**Learning through projects**
+
+Improving engineering fundamentals by experimenting with new technologies and building practical solutions.
+
+<br>
+
+<pre>
+IDEA
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+ITERATE
+</pre>
 
 </td>
 
@@ -245,53 +375,99 @@ An interactive visual learning web app aimed at bridging communication gaps usin
 
 <br>
 
-<!-- ================= DEVELOPMENT WORKFLOW ================= -->
+---
 
 <div align="center">
 
-### ⚙️ `HOW I BUILD`
+# `DEVELOPER WORKFLOW`
 
 <br>
 
 <table width="90%">
 <tr>
 
-<td align="center" width="22%">
-<code>01. IDEATE</code>
-<br><br>
-<b>Problem Scoping</b>
-<br>
-<sub>Identify real user pain points & accessibility needs</sub>
+<td align="center">
+
+### `01`
+
+💡
+
+**IDEATE**
+
+Understand the problem.
+
 </td>
 
-<td align="center" width="6%"><b>→</b></td>
+<td align="center">
 
-<td align="center" width="22%">
-<code>02. ARCHITECT</code>
-<br><br>
-<b>UI/UX & Logic</b>
-<br>
-<sub>Design accessible layouts & clean system architecture</sub>
+→
+
 </td>
 
-<td align="center" width="6%"><b>→</b></td>
+<td align="center">
 
-<td align="center" width="22%">
-<code>03. DEVELOP</code>
-<br><br>
-<b>Code & Test</b>
-<br>
-<sub>Write clean, type-safe code with modular components</sub>
+### `02`
+
+🎨
+
+**DESIGN**
+
+Plan the solution.
+
 </td>
 
-<td align="center" width="6%"><b>→</b></td>
+<td align="center">
 
-<td align="center" width="22%">
-<code>04. REFINE</code>
-<br><br>
-<b>Iterate & Deploy</b>
-<br>
-<sub>User feedback loops, performance tuning & release</sub>
+→
+
+</td>
+
+<td align="center">
+
+### `03`
+
+⚙️
+
+**BUILD**
+
+Turn ideas into code.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+### `04`
+
+🧪
+
+**TEST**
+
+Find and fix issues.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+### `05`
+
+🚀
+
+**IMPROVE**
+
+Iterate and ship.
+
 </td>
 
 </tr>
@@ -300,62 +476,117 @@ An interactive visual learning web app aimed at bridging communication gaps usin
 </div>
 
 <br>
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/03-GITHUB_METRICS-1E293B?style=for-the-badge&labelColor=2563EB&color=F8FAFC">
-
-<br><br>
-
-<table border="0">
-<tr>
-<td align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" height="165" alt="GitHub Stats">
-</td>
-<td align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=94A3B8" height="165" alt="Top Languages">
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyakrishnah&bg_color=0F172A&color=94A3B8&line=2563EB&point=38BDF8&area=true&hide_border=true" width="92%" alt="Activity Graph">
-
-</div>
-
-<br>
-
-<!-- ================= FOOTER / CONNECT ================= -->
-
-<div align="center">
 
 ---
 
-### 🌐 Let's Connect & Collaborate!
+<div align="center">
+
+# `GITHUB ANALYTICS`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=64748B&icon_color=2563EB&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=64748B&icon_color=2563EB" width="40%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=diyakrishnah&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=06B6D4&currStreakLabel=0F172A" width="70%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `CONTRIBUTION ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyakrishnah&bg_color=FFFFFF&color=475569&line=2563EB&point=06B6D4&area=true&hide_border=true" width="94%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<table width="85%">
+<tr>
+
+<td align="center">
+
+### `CURRENT FOCUS`
+
+<br>
+
+`WEB DEVELOPMENT`
+
+`PROBLEM SOLVING`
+
+`ACCESSIBLE TECHNOLOGY`
+
+`SOFTWARE PROJECTS`
+
+</td>
+
+<td align="center">
+
+### `NEXT TARGET`
+
+<br>
+
+`BUILD MORE`
+
+`LEARN DEEPER`
+
+`SOLVE BETTER`
+
+`SHIP CONSISTENTLY`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `LET'S CONNECT`
 
 <br>
 
 <a href="https://github.com/diyakrishnah">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/diya-krishna-663080326">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:diyakrishna404@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
 
 <br><br>
 
-<sub><i>"Building digital experiences with accessibility and purpose at heart."</i></sub>
+<code>BUILDING DIGITAL EXPERIENCES • ONE PROBLEM AT A TIME</code>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0369A1,50:172554,100:0F172A"/>
 
 </div>
