@@ -1,116 +1,66 @@
-<!-- HEADER -->
+<!-- =========================
+     DIYA KRISHNA - GITHUB PROFILE
+     ========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Diya Krishna
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Computer Science Engineering Student • 🚀 Developer • 🧩 Problem Solver
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=180&section=header&text=Diya%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diyakrishnah&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-<!-- ABOUT ME -->
-
-## 👩‍💻 About Me
-
-🎓 I'm a **Computer Science Engineering student** passionate about building useful and creative digital solutions.
-
-- 💻 Exploring **Web Development & Software Development**
-- 🧩 I enjoy **problem solving and logical challenges**
-- 🚀 Building projects that solve real-world problems
-- 🌱 Currently improving my development skills
-- 🎯 Always learning something new
-- ⚡ Turning ideas into working projects
-
----
-
-<!-- TECH STACK -->
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+<h2>💻 Computer Science Engineering Student</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+🚀 Developer &nbsp;•&nbsp;
+🧩 Problem Solver &nbsp;•&nbsp;
+💡 Project Builder
 </p>
-
-### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
+<img src="https://komarev.com/ghpvc/?username=diyakrishnah&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 </p>
 
-### 🗄️ Database & Tools
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="40%" align="center">
+
+<img src="./profile.png" width="260" style="border-radius:50%;"/>
+
+<br><br>
+
+<h2>👋 Hey, I'm Diya!</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+<strong>Build • Learn • Solve • Repeat</strong>
 </p>
 
----
-
-<!-- GITHUB STATS -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+<p>
+📍 Kerala, India
 </p>
 
----
+</td>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=diyakrishnah&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-<!-- PROJECTS -->
-
-## 🚀 Featured Projects
-
-### 🧩 SamvadSahay
-> Personalized assistive technology designed to support autistic children in developing communication and daily-living skills.
-
-**Tech:** HTML • CSS • JavaScript • Web Technologies
-
----
-
-### 🤟 Indian Sign Language Learning Platform
-> An interactive platform designed to make Indian Sign Language learning more accessible and engaging.
-
-**Tech:** React • TypeScript • Tailwind CSS • MediaPipe
-
----
-
-### 🧠 Machine Learning Projects
-> Exploring machine learning concepts through practical implementations and data-driven projects.
-
-**Tech:** Python • Machine Learning • Jupyter Notebook
-
----
-
-## 💡 What I'm Working On
+<td width="60%">
 
 ```text
-▰ Web Development
-▰ Problem Solving
-▰ Software Projects
-▰ Hackathons & Technical Events
-▰ Learning New Technologies
+╭────────────────────────────────────────────╮
+│  diya@github:~$ whoami                     │
+╰────────────────────────────────────────────╯
+
+  Hello World! 👋
+
+  I'm Diya Krishna.
+
+  🎓 B.Tech Computer Science Student
+  💻 Developer
+  🧩 Problem Solver
+  🚀 Project Builder
+
+  > Turning ideas into reality...
+  > Learning something new every day...
+  > Building things that matter...
+
+  diya@github:~$ _
