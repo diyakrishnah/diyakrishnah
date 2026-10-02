@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Practical+Software+Solutions;Interested+in+Web+Development+%26+Problem+Solving;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Ideas+into+Reality;Learning+%7C+Building+%7C+Solving;Turning+Problems+into+Practical+Solutions" />
 
 <br><br>
 
@@ -17,69 +17,66 @@
 </a>
 
 <a href="mailto:diyakrishna404@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=diyakrishnah&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=diyakrishnah&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Diya Krishna
-
-> **Computer Science Engineering student focused on building practical, accessible and meaningful software solutions.**
-
-I'm a B.Tech Computer Science & Engineering student interested in **software development, web technologies, problem solving and project-based learning**.
-
-I enjoy taking an idea from **concept → design → implementation → testing** and turning it into something people can actually use.
-
-### What I bring
-
-- 💻 Strong interest in software and web development
-- 🧩 Problem-solving and logical thinking
-- 🚀 Hands-on project development
-- 💡 Interest in accessibility-focused technology
-- 🤝 Experience working on technical projects and events
-- 🌱 Continuous learning and experimentation
-
----
-
-# 🧑‍💻 Developer Profile
-
 <table>
 <tr>
 
-<td width="50%">
+<td width="38%" align="center">
 
-### 🎓 Education
+<img src="./profile.png" width="280"/>
 
-**B.Tech — Computer Science & Engineering**
+<br><br>
 
-Currently developing skills across:
+<img src="https://img.shields.io/badge/STATUS-BUILDING-2563EB?style=for-the-badge"/>
 
-- Data Structures & Algorithms
-- Database Management
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Web Development
+<br><br>
+
+<strong>Diya Krishna</strong>
+
+<br>
+
+<sub>Computer Science Engineering Student</sub>
+
+<br><br>
+
+<code>diya@github:~$ whoami</code>
+
+<br><br>
+
+<code>Build · Learn · Solve · Improve</code>
 
 </td>
 
-<td width="50%">
+<td width="62%">
 
-### 🎯 Current Focus
+# 👋 Hello, I'm Diya
+
+### Computer Science Engineering • Software Development • Problem Solving
 
 ```text
-Software Development
-        ↓
-Web Technologies
-        ↓
-Problem Solving
-        ↓
-Real-world Projects
-        ↓
-Continuous Learning
+┌──────────────────────────────────────────────┐
+│  diya@github:~$ ./profile                    │
+├──────────────────────────────────────────────┤
+│                                              │
+│  NAME      : Diya Krishna                    │
+│  ROLE      : CSE Student / Developer         │
+│  LOCATION  : Kerala, India                   │
+│                                              │
+│  FOCUS     : Software Development            │
+│              Web Development                 │
+│              Problem Solving                 │
+│              Accessibility                   │
+│                                              │
+│  STATUS    : ● BUILDING                      │
+│                                              │
+└──────────────────────────────────────────────┘
