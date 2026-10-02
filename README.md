@@ -467,12 +467,12 @@ Exploring machine learning through practical experiments.
        ┌─────────┐
        │  IDEA   │
        └────┬────┘
-            │
-            ▼
+           │
+           ▼
        ┌─────────┐
        │ ANALYZE │
        └────┬────┘
-            │
+          │
             ▼
        ┌─────────┐
        │ DESIGN  │
