@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=diyakrishnahlabel=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -36,9 +36,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=diyakrishnah&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -66,11 +66,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/diya-krishna-663080326)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/diyakrishnah">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
