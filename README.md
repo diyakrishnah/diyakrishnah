@@ -1,5 +1,49 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:020617,35:0F172A,65:1E3A8A,100:06B6D4&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+WELCOME+TO+MY+DIGITAL+WORKSPACE."/>
+
+<br><br>
+
+# `DIYA KRISHNA`
+
+### `CSE STUDENT` · `DEVELOPER` · `PROBLEM SOLVER`
+
+<br>
+
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BUILDING-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="42%" align="center">
+
+<img src="./profile-tech.png" width="310"/>
+
+<br><br>
+
+```text
+╔══════════════════════════════╗
+║       DEVELOPER NODE         ║
+╠══════════════════════════════╣
+║                              ║
+║  USER    : diya              ║
+║  ROLE    : developer         ║
+║  STATUS  : ● online          ║
+║  LOC     : Kerala, IN        ║
+║                              ║
+║  ACCESS  : PUBLIC             ║
+║  MODE    : BUILD             ║
+║                              ║
+╚══════════════════════════════╝<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:0F172A,45:172554,75:1D4ED8,100:06B6D4&animation=fadeIn"/>
 
 # DIYA KRISHNA
