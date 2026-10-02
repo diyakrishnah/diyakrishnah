@@ -27,7 +27,7 @@
 
 <td width="40%" align="center">
 
-<img src="./profile.png" width="260" style="border-radius:50%;"/>
+<img src="./profile.jpeg" width="260" style="border-radius:50%;"/>
 
 <br><br>
 
