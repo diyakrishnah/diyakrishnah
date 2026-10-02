@@ -6,6 +6,220 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+practical+software.;Learning.+Building.+Solving.;Exploring+the+intersection+of+technology+%26+accessibility."/>
 
+</div><div align="center">
+
+<table>
+<tr>
+
+<td width="38%" align="center" valign="middle">
+
+<br>
+
+<img src="./profile-tech.png"
+     width="270"
+     alt="Diya Krishna"
+     style="border-radius:20px;"/>
+
+<br><br>
+
+<code>&lt;diya /&gt;</code>
+
+<br><br>
+
+</td>
+
+<td width="62%" valign="middle">
+
+<table>
+<tr>
+<td>
+
+### Hi 👋
+# I'm Diya Krishna
+
+**B.Tech Computer Science & Engineering Student**
+
+Building practical software experiences with a focus on **problem solving, web development and accessibility.**
+
+<br>
+
+📍 **Kerala, India**  
+🎓 **B.Tech CSE**  
+💻 **Developer & Problem Solver**  
+🚀 **Currently building projects**
+
+<br>
+
+**Focus**
+
+`Software Development`  
+`Web Technology`  
+`Accessibility`  
+`Problem Solving`
+
+<br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=111827"/>
+</a>
+
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:diyakrishna404@gmail.com">
+<img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `TECH STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,git,github,vscode&perline=10"/>
+
+<br><br>
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS` · `Python` · `Git` · `GitHub`
+
+</div>
+
+---
+
+<div align="center">
+
+## `WHAT I BUILD`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 SamvadSahay
+
+**Assistive Technology**
+
+A personalized platform designed to support communication and daily-living skills through structured visual learning.
+
+**Features**
+
+- Communication cards
+- Daily routines
+- Progress tracking
+- Caregiver dashboard
+- Multilingual support
+- Reward system
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤟 ISL Learning Platform
+
+**Accessibility-focused Web Application**
+
+A visual-first learning platform designed to make Indian Sign Language learning more interactive and accessible.
+
+**Technology**
+
+- React
+- TypeScript
+- Tailwind CSS
+- MediaPipe
+
+`React` `TypeScript` `MediaPipe`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Machine Learning Projects
+
+**Data & Predictive Modelling**
+
+Exploring data analysis, regression and predictive modelling using Python-based workflows.
+
+`Python` `NumPy` `Pandas` `Scikit-Learn`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Currently Exploring
+
+**Learning by Building**
+
+Improving software development fundamentals through projects, experiments and technical challenges.
+
+`Problem Solving` `Web Development` `Engineering`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `GITHUB`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=64748B&icon_color=38BDF8"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=64748B"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=diyakrishnah&theme=default&hide_border=true&background=ffffff&ring=38BDF8&fire=38BDF8&currStreakLabel=111827"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • SOLVE • GROW`
+
+<br>
+
+<sub>
+Turning ideas into practical digital experiences.
+</sub>
+
+<br><br>
+
+<a href="https://github.com/diyakrishnah">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:diyakrishna404@gmail.com">Email</a>
+
 </div>
 
 <br>
