@@ -1,5 +1,53 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=DIYA%20KRISHNA&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=78&descColor=8B949E"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="42%" align="center">
+
+<img src="./profile-tech.png" width="320" alt="Diya Krishna"/>
+
+<br><br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:diyakrishna404@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</td>
+
+<td width="58%">
+
+### `diya@github:~$ whoami`
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  NAME      Diya Krishna                  │
+│  ROLE      CSE Student / Developer       │
+│  STATUS    Building & Learning           │
+│                                          │
+│  FOCUS                                     │
+│  ├── Web Development                     │
+│  ├── Problem Solving                     │
+│  ├── Accessibility                       │
+│  └── Software Projects                   │
+│                                          │
+└──────────────────────────────────────────┘<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:020617,35:0F172A,65:1E3A8A,100:06B6D4&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+WELCOME+TO+MY+DIGITAL+WORKSPACE."/>
