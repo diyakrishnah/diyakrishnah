@@ -1,62 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=DIYA%20KRISHNA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20DEVELOPER&descSize=15&descColor=B6D4FF&descAlignY=60&color=0:0F172A,50:172554,100:0369A1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=DIYA%20KRISHNA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CSE%20STUDENT&descSize=15&descColor=BFE3FF&descAlignY=61&color=0:020617,45:0F172A,75:075985,100:0EA5E9"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Diya+Krishna+%F0%9F%91%8B;CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+practical+digital+experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=0284C7&center=true&vCenter=true&width=760&lines=%3E+initializing+developer.profile...;%3E+loading+projects...+%5BOK%5D;%3E+loading+technical+stack...+%5BOK%5D;%3E+building+ideas+into+software...;%3E+system+ready."/>
 
 </div>
 
 <br>
 
-<!-- ===================================================== -->
-<!-- HERO SECTION -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="15">
 <tr>
 
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
+
+<table width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center">
+
+<img src="./profile-tech.png"
+     width="330"
+     alt="Diya Krishna"/>
+
+<br><br>
+
+<code>DIYA.KRISHNA / DEVELOPER_NODE</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-22C55E?style=flat-square&labelColor=F8FAFC"/>
+
+<img src="https://img.shields.io/badge/BUILD-MODE-2563EB?style=flat-square&labelColor=EFF6FF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CSE-ENGINEERING-0F172A?style=for-the-badge&labelColor=E0F2FE"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="./profile-tech.png" width="330" alt="Diya Krishna"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●_DEVELOPER-0F172A?style=for-the-badge&labelColor=E0F2FE&color=0F172A"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square&labelColor=EFF6FF"/>
-<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=flat-square&labelColor=ECFEFF"/>
-<img src="https://img.shields.io/badge/EXPLORING-7C3AED?style=flat-square&labelColor=F5F3FF"/>
-
-<br><br>
-
 <a href="https://github.com/diyakrishnah">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/diya-krishna-663080326">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <br>
 
 <a href="mailto:diyakrishna404@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
-
-<br><br>
 
 </td>
 
 
-<td width="58%" valign="middle">
+<td width="60%" valign="top">
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="8">
 <tr>
 <td>
 
@@ -64,43 +74,47 @@
 <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&labelColor=FFFFFF&color=FFBD2E">
 <img src="https://img.shields.io/badge/●-27C93F?style=flat-square&labelColor=FFFFFF&color=27C93F">
 
-<code>~/diyakrishnah/profile</code>
+<code>~/diyakrishnah/developer_profile</code>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h2>Hi, I'm Diya 👋</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=0EA5E9&width=600&lines=Computer+Science+Engineering+Student;Software+Developer;Problem+Solver;Accessibility+%26+Web+Technology+Enthusiast"/>
 
 <br><br>
 
-### `diya@github:~$ whoami`
-
 <pre>
 ┌───────────────────────────────────────────────┐
+│  $ whoami                                     │
 │                                               │
-│  NAME       Diya Krishna                     │
-│  ROLE       CSE Student / Developer          │
-│  STATUS     ● Available to Build             │
+│  Diya Krishna                                 │
+│  CSE Student • Developer                      │
 │                                               │
-│  LOCATION   Kerala, India                    │
+│  $ location                                   │
+│  Kerala, India                                │
 │                                               │
-│  FOCUS                                        │
-│  ├── Software Development                    │
-│  ├── Web Technologies                         │
-│  ├── Accessibility                            │
-│  └── Problem Solving                          │
+│  $ mission                                    │
+│  Build useful things.                         │
+│  Solve meaningful problems.                   │
+│                                               │
+│  $ current_state                              │
+│  Learning → Building → Testing → Improving    │
 │                                               │
 └───────────────────────────────────────────────┘
 </pre>
 
 <br>
 
-<code>$ cat current_objective.txt</code>
+<code>$ ./developer --focus="impact"</code>
 
-> **Turning ideas into practical digital experiences.**
+<br><br>
 
-<br>
-
-<code>$ ./build --mode=creative</code>
-
-<br>
-
-`BUILD` → `TEST` → `SOLVE` → `IMPROVE`
+<b>Building practical digital experiences with technology.</b>
 
 </td>
 </tr>
@@ -113,59 +127,82 @@
 
 <br>
 
-<!-- ===================================================== -->
-<!-- QUICK INFO -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!-- SYSTEM STATUS -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<table width="90%">
+<table width="92%" cellspacing="0" cellpadding="12">
 <tr>
 
 <td align="center">
 
-### `01`
+<sub>SYSTEM</sub>
 
-**EDUCATION**
+<br>
 
-B.Tech  
-Computer Science & Engineering
+<b>ONLINE</b>
 
-</td>
+<br>
 
-<td align="center">
-
-### `02`
-
-**CURRENT MODE**
-
-Learning  
-Building  
-Experimenting
+🟢
 
 </td>
 
 <td align="center">
 
-### `03`
+<sub>MODE</sub>
 
-**INTEREST**
+<br>
 
-Software  
-Web  
-Accessibility
+<b>BUILD</b>
+
+<br>
+
+⚙️
 
 </td>
 
 <td align="center">
 
-### `04`
+<sub>FOCUS</sub>
 
-**APPROACH**
+<br>
 
-Think  
-Build  
-Improve
+<b>WEB + SOFTWARE</b>
+
+<br>
+
+💻
+
+</td>
+
+<td align="center">
+
+<sub>INTEREST</sub>
+
+<br>
+
+<b>ACCESSIBILITY</b>
+
+<br>
+
+♿
+
+</td>
+
+<td align="center">
+
+<sub>STATUS</sub>
+
+<br>
+
+<b>LEARNING</b>
+
+<br>
+
+📡
 
 </td>
 
@@ -180,32 +217,24 @@ Improve
 
 <div align="center">
 
-# `TECH STACK`
+# `01 / TECHNICAL ARCHITECTURE`
 
-<sub>Technologies I work with and continue to explore</sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,git,github,vscode&perline=10"/>
+<sub>A snapshot of the technologies I work with and explore.</sub>
 
 <br><br>
 
-<table width="90%">
+<table width="94%" cellspacing="0" cellpadding="15">
 <tr>
 
-<td align="center">
-
-### `LANGUAGES`
-
-`Python`  
-`JavaScript`  
-`TypeScript`
-
-</td>
-
-<td align="center">
+<td width="25%" align="center">
 
 ### `FRONTEND`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4"/>
+
+<br><br>
 
 `HTML`  
 `CSS`  
@@ -214,9 +243,31 @@ Improve
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### `DATA / ML`
+### `LANGUAGES`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts&perline=3"/>
+
+<br><br>
+
+`Python`  
+`JavaScript`  
+`TypeScript`
+
+</td>
+
+<td width="25%" align="center">
+
+### `DATA`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python&perline=1"/>
+
+<br><br>
 
 `NumPy`  
 `Pandas`  
@@ -225,9 +276,15 @@ Improve
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### `TOOLS`
+### `ENGINEERING`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
+
+<br><br>
 
 `Git`  
 `GitHub`  
@@ -246,347 +303,93 @@ Improve
 
 <div align="center">
 
-# `SELECTED PROJECTS`
+# `02 / ENGINEERING MINDSET`
 
 </div>
 
 <br>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="15">
 <tr>
 
-<td width="50%" valign="top">
-
-### 🧩 `SAMVADSAHAY`
-
-**Assistive Technology Platform**
-
-A personalized assistive technology platform designed to support communication and daily-living skills through structured visual learning.
-
-<br>
-
-**FEATURES**
-
-`Communication Cards`  
-`Daily Routines`  
-`Progress Tracking`  
-`Caregiver Dashboard`  
-`Multilingual Support`  
-`Reward System`
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827"/>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### 🤟 `ISL LEARNING PLATFORM`
-
-**Accessibility-focused Web Application**
-
-A visual-first learning platform designed to make Indian Sign Language learning more interactive and accessible.
-
-<br>
-
-**TECHNOLOGY**
-
-`React`  
-`TypeScript`  
-`Tailwind CSS`  
-`MediaPipe`
-
-<br>
-
-**FOCUS**
-
-`Visual Learning`  
-`Accessibility`  
-`Interactive Interface`  
-`Gesture Recognition`
-
-<br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF"/>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 `MACHINE LEARNING`
-
-**Data & Predictive Modelling**
-
-Exploring machine learning workflows through data analysis, regression and predictive modelling.
-
-<br>
-
-`Data Analysis`  
-`Regression`  
-`Data Preprocessing`  
-`Model Evaluation`
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=FFFFFF"/>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### ⚡ `CURRENTLY BUILDING`
-
-**Learning through projects**
-
-Improving engineering fundamentals by experimenting with new technologies and building practical solutions.
-
-<br>
-
-<pre>
-IDEA
- ↓
-DESIGN
- ↓
-BUILD
- ↓
-TEST
- ↓
-ITERATE
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-# `DEVELOPER WORKFLOW`
-
-<br>
-
-<table width="90%">
-<tr>
-
-<td align="center">
+<td width="25%" align="center">
 
 ### `01`
 
-💡
+## THINK
 
-**IDEATE**
-
-Understand the problem.
+Understand the problem before writing the solution.
 
 </td>
 
-<td align="center">
-
-→
-
-</td>
-
-<td align="center">
+<td width="25%" align="center">
 
 ### `02`
 
-🎨
+## DESIGN
 
-**DESIGN**
-
-Plan the solution.
+Break complex ideas into simple systems.
 
 </td>
 
-<td align="center">
-
-→
-
-</td>
-
-<td align="center">
+<td width="25%" align="center">
 
 ### `03`
 
-⚙️
+## BUILD
 
-**BUILD**
-
-Turn ideas into code.
+Turn concepts into functional software.
 
 </td>
 
-<td align="center">
-
-→
-
-</td>
-
-<td align="center">
+<td width="25%" align="center">
 
 ### `04`
 
-🧪
+## ITERATE
 
-**TEST**
-
-Find and fix issues.
-
-</td>
-
-<td align="center">
-
-→
-
-</td>
-
-<td align="center">
-
-### `05`
-
-🚀
-
-**IMPROVE**
-
-Iterate and ship.
+Test, improve and build again.
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
 ---
 
 <div align="center">
 
-# `GITHUB ANALYTICS`
+# `03 / SELECTED WORK`
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=64748B&icon_color=2563EB&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=64748B&icon_color=2563EB" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=diyakrishnah&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=06B6D4&currStreakLabel=0F172A" width="70%"/>
+<sub>Projects built around practical problems and accessible experiences.</sub>
 
 </div>
 
 <br>
 
----
-
-<div align="center">
-
-# `CONTRIBUTION ACTIVITY`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyakrishnah&bg_color=FFFFFF&color=475569&line=2563EB&point=06B6D4&area=true&hide_border=true" width="94%"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<table width="85%">
+<table width="100%" cellspacing="0" cellpadding="18">
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### `CURRENT FOCUS`
+## `01 — SAMVADSAHAY`
 
-<br>
+### Assistive Technology Platform
 
-`WEB DEVELOPMENT`
-
-`PROBLEM SOLVING`
-
-`ACCESSIBLE TECHNOLOGY`
-
-`SOFTWARE PROJECTS`
-
-</td>
-
-<td align="center">
-
-### `NEXT TARGET`
+A personalized assistive technology platform designed around structured visual learning and daily communication support.
 
 <br>
 
-`BUILD MORE`
+**SYSTEM COMPONENTS**
 
-`LEARN DEEPER`
-
-`SOLVE BETTER`
-
-`SHIP CONSISTENTLY`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# `LET'S CONNECT`
-
-<br>
-
-<a href="https://github.com/diyakrishnah">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/diya-krishna-663080326">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:diyakrishna404@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
-</a>
-
-<br><br>
-
-<code>BUILDING DIGITAL EXPERIENCES • ONE PROBLEM AT A TIME</code>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0369A1,50:172554,100:0F172A"/>
-
-</div>
+```text
+COMMUNICATION
+     │
+     ├── Visual Cards
+     ├── Daily Routines
+     ├── Progress Tracking
+     ├── Caregiver Dashboard
+     ├── Multilingual Support
+     └── Reward System
