@@ -1,156 +1,460 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=DIYA%20KRISHNA&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=78&descColor=8B949E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F17&height=140&section=header&text=DIYA%20KRISHNA&fontSize=44&fontColor=F8FAFC&fontAlignY=48&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descColor=94A3B8&descAlignY=70"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+practical+software.;Learning.+Building.+Solving.;Exploring+the+intersection+of+technology+%26+accessibility."/>
 
 </div>
 
 <br>
 
-<table>
-<tr>
-
-<td width="42%" align="center">
-
-<img src="./profile-tech.png" width="320" alt="Diya Krishna"/>
-
-<br><br>
-
-<a href="https://github.com/diyakrishnah">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/diya-krishna-663080326">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:diyakrishna404@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</td>
-
-<td width="58%">
-
-### `diya@github:~$ whoami`
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  NAME      Diya Krishna                  │
-│  ROLE      CSE Student / Developer       │
-│  STATUS    Building & Learning           │
-│                                          │
-│  FOCUS                                     │
-│  ├── Web Development                     │
-│  ├── Problem Solving                     │
-│  ├── Accessibility                       │
-│  └── Software Projects                   │
-│                                          │
-└──────────────────────────────────────────┘<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:020617,35:0F172A,65:1E3A8A,100:06B6D4&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+WELCOME+TO+MY+DIGITAL+WORKSPACE."/>
-
-<br><br>
-
-# `DIYA KRISHNA`
-
-### `CSE STUDENT` · `DEVELOPER` · `PROBLEM SOLVER`
-
-<br>
-
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BUILDING-2563EB?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="42%" align="center">
-
-<img src="./profile-tech.png" width="310"/>
-
-<br><br>
-
-```text
-╔══════════════════════════════╗
-║       DEVELOPER NODE         ║
-╠══════════════════════════════╣
-║                              ║
-║  USER    : diya              ║
-║  ROLE    : developer         ║
-║  STATUS  : ● online          ║
-║  LOC     : Kerala, IN        ║
-║                              ║
-║  ACCESS  : PUBLIC             ║
-║  MODE    : BUILD             ║
-║                              ║
-╚══════════════════════════════╝<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:0F172A,45:172554,75:1D4ED8,100:06B6D4&animation=fadeIn"/>
-
-# DIYA KRISHNA
-
-### `Computer Science Engineering` · `Software Development` · `Problem Solving`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=720&lines=Building+Ideas+into+Reality;Learning+%7C+Building+%7C+Solving;Turning+Problems+into+Practical+Solutions;Always+Learning.+Always+Improving." />
-
-<br><br>
-
-<a href="https://github.com/diyakrishnah">
-<img src="https://img.shields.io/badge/GITHUB-diyakrishnah-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/diya-krishna-663080326">
-<img src="https://img.shields.io/badge/LINKEDIN-DIYA%20KRISHNA-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:diyakrishna404@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=diyakrishnah&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
-
-</div>
-
----
+<!-- HERO -->
 
 <table>
 <tr>
 
 <td width="40%" align="center">
 
-<img src="./profile-tech.png" width="300"/>
+<img src="./profile-tech.png" width="310" alt="Diya Krishna"/>
 
 <br><br>
 
-### `</Diya>`
+<img src="https://img.shields.io/badge/CSE%20STUDENT-0B0F17?style=for-the-badge&logo=academia&logoColor=58A6FF"/>
 
-**Student Developer**
+<br><br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/GitHub-0B0F17?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-2563EB?style=for-the-badge"/>
+<a href="mailto:diyakrishna404@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-<img src="https://img.shields.io/badge/LEARNING-ACTIVE-06B6D4?style=for-the-badge"/>
+</td>
+
+<td width="60%">
+
+<h3>diya@github:~$ whoami</h3>
+
+<pre>
+┌──────────────────────────────────────────────┐
+│                                              │
+│  NAME      Diya Krishna                     │
+│  ROLE      CSE Student / Developer          │
+│  STATUS    Building & Learning              │
+│                                              │
+│  INTERESTS                                   │
+│  ├── Software Development                    │
+│  ├── Web Technologies                        │
+│  ├── Accessibility                           │
+│  └── Problem Solving                         │
+│                                              │
+│  MODE      BUILD                             │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+### `01 / ABOUT`
+
+I’m a **Computer Science Engineering student** interested in building
+practical and meaningful software solutions.
+
+I enjoy taking an idea, breaking it into smaller problems, and turning
+those ideas into functional digital experiences.
+
+<br>
+
+`BUILD` &nbsp; `LEARN` &nbsp; `SOLVE` &nbsp; `IMPROVE`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## `02 / TECHNICAL STACK`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### LANGUAGES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts"/>
 
 <br><br>
 
-```text
-┌──────────────────────────────┐
-│       SYSTEM STATUS          │
-├──────────────────────────────┤
-│                              │
-│  ● ONLINE                    │
-│  ● LEARNING                  │
-│  ● BUILDING                  │
-│  ● EXPLORING                 │
-│                              │
-└──────────────────────────────┘
+`Python`  
+`JavaScript`  
+`TypeScript`
+
+</td>
+
+<td align="center" width="25%">
+
+### FRONTEND
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+
+<br><br>
+
+`HTML`  
+`CSS`  
+`React`  
+`Tailwind CSS`
+
+</td>
+
+<td align="center" width="25%">
+
+### DATA / ML
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
+`NumPy`  
+`Pandas`  
+`Scikit-Learn`  
+`Jupyter`
+
+</td>
+
+<td align="center" width="25%">
+
+### TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br><br>
+
+`Git`  
+`GitHub`  
+`VS Code`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `03 / SELECTED WORK`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `SAMVADSAHAY`
+
+**Assistive Technology Platform**
+
+A personalized assistive technology concept designed to support
+communication and daily-living skills through structured visual learning.
+
+<br>
+
+**Core Features**
+
+- Communication cards
+- Daily routines
+- Progress tracking
+- Caregiver dashboard
+- Multilingual support
+- Reward-based interaction
+
+<br>
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0B0F17?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `ISL LEARNING PLATFORM`
+
+**Indian Sign Language Learning**
+
+An accessibility-focused visual learning platform designed to make
+Indian Sign Language learning more interactive and approachable.
+
+<br>
+
+**Core Technologies**
+
+- React
+- TypeScript
+- Tailwind CSS
+- MediaPipe
+- Visual learning interface
+
+<br>
+
+`React` `TypeScript` `Tailwind` `MediaPipe`
+
+<br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0B0F17?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `MACHINE LEARNING`
+
+**Data & Predictive Modelling**
+
+Exploring machine learning workflows through data analysis,
+regression and predictive modelling projects.
+
+<br>
+
+**Working With**
+
+- Data preprocessing
+- Exploratory analysis
+- Regression
+- Model evaluation
+- Python-based notebooks
+
+<br>
+
+`Python` `NumPy` `Pandas` `Scikit-Learn`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `MORE IN PROGRESS`
+
+**Learning through projects**
+
+I’m continuously experimenting with new ideas, development workflows
+and technologies while improving my engineering fundamentals.
+
+<br>
+
+<pre>
+> idea
+  ↓
+> experiment
+  ↓
+> build
+  ↓
+> test
+  ↓
+> improve
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## `04 / DEVELOPMENT PHILOSOPHY`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### `01`
+
+**LEARN**
+
+Understand the fundamentals before building.
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**BUILD**
+
+Turn concepts into working projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**SOLVE**
+
+Approach problems with logic and curiosity.
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**IMPROVE**
+
+Iterate, experiment and keep learning.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<pre>
+"Good software starts with a good problem to solve."
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `05 / GITHUB ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=diyakrishnah&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=F8FAFC&text_color=94A3B8&icon_color=58A6FF&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakrishnah&layout=compact&hide_border=true&bg_color=0B0F17&title_color=F8FAFC&text_color=94A3B8&icon_color=58A6FF" width="41%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=diyakrishnah&theme=github-dark-blue&hide_border=true&background=0B0F17&ring=58A6FF&fire=58A6FF&currStreakLabel=F8FAFC" width="70%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `06 / CONTRIBUTION GRAPH`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyakrishnah&bg_color=0B0F17&color=94A3B8&line=58A6FF&point=F8FAFC&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `07 / CURRENT FOCUS`
+
+<br>
+
+<pre>
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   [01]  Strengthening software development skills       │
+│                                                         │
+│   [02]  Building practical web applications             │
+│                                                         │
+│   [03]  Exploring accessibility-focused technology      │
+│                                                         │
+│   [04]  Improving problem-solving & engineering         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `08 / CONNECT`
+
+<br>
+
+<a href="https://github.com/diyakrishnah">
+<img src="https://img.shields.io/badge/GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/diya-krishna-663080326">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:diyakrishna404@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B0F17?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+<code>Let's build something meaningful.</code>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F17&height=100&section=footer"/>
+
+</div>
