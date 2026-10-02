@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./diya_animated_banner.gif" width="100%" alt="Diya Krishna animated banner"/>
+  <img src="./diya_animated_banner(20261002-165748).gif" width="100%" alt="Diya Krishna animated banner"/>
 </div>
 <div align="center">
 
